@@ -7,9 +7,9 @@ import java.util.Map;
 
 public class DummyContent {
 
-    public static final List<DummyItem> ITEMS = new ArrayList<DummyItem>();
+    public static final List<DummyItem> ITEMS = new ArrayList<>();
 
-    public static final Map<String, DummyItem> ITEM_MAP = new HashMap<String, DummyItem>();
+    public static final Map<String, DummyItem> ITEM_MAP = new HashMap<>();
 
     private static final int COUNT = 25;
 
